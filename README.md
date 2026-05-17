@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Rahul Surya 👋
 
-<!--
-**Rahulsurya23/Rahulsurya23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI) Student at VIIT Pune  
+💻 Java | DSA | HTML | CSS | JavaScript | React  
+🚀 Aspiring Software Engineer  
+📚 Preparing for Internships and GATE  
+🌱 Solving 2 Java problems every day
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Java
+- Data Structures & Algorithms
+- HTML
+- CSS
+- JavaScript
+- React
+
+---
+
+## 🚀 Projects
+- 🌦️ Weather App
+- 🥁 Drum Kit
+- 🌐 Portfolio Website (Coming Soon)
+
+---
+
+## 🎯 Current Goals
+- Crack a Software Development Internship
+- Master DSA in Java
+- Build Full Stack Projects
+- Prepare for GATE
+
+---
+
+## 📫 Connect With Me
+- 📍 Pune, India
+- 💻 GitHub: https://github.com/Rahulsurya23
