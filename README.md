@@ -1,6 +1,6 @@
 # Hi there, I'm Rahul Surya 👋
 
-🎓 B.Tech CSE (AI) Student at VIIT Pune  
+🎓 B.Tech CSE (AI) Student at Vedam school of Technology Pune  
 💻 Java | DSA | HTML | CSS | JavaScript | React  
 🚀 Aspiring Software Engineer  
 📚 Preparing for Internships and GATE  
