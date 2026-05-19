@@ -22,6 +22,7 @@
 - 🌦️ Weather App
 - 🥁 Drum Kit
 - 🌐 Portfolio Website (Coming Soon)
+- 🌍 Made my first Open Source Pull Request using First Contributions.
 
 ---
 
