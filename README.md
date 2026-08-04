@@ -21,7 +21,7 @@
 ## 🚀 Projects
 - 🌦️ Weather App
 - 🥁 Drum Kit
-- 🌐 Portfolio Website (Coming Soon)
+- 🌐 Portfolio Website 
 - 🌍 Made my first Open Source Pull Request using First Contributions.
 
 ---
