@@ -3,13 +3,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rahul%20Surya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20(AI)%20%7C%20Vedam%20School%20of%20Technology&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=560&lines=Aspiring+Software+Engineer;Java+%7C+DSA+%7C+React;Solving+2+Java+problems+every+day;Looking+for+a+SDE+internship" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=560&lines=Aspiring+Software+Engineer;Java+%7C+DSA+%7C+React;Looking+for+a+SDE+internship" alt="Typing SVG" />
 </a>
 
 <br/>
 
 ![Location](https://img.shields.io/badge/Pune-India-2F81F7?style=flat-square&logo=googlemaps&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=Rahulsurya23&style=flat-square&color=2F81F7)
+
 
 </div>
 
