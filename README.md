@@ -35,18 +35,14 @@
     <td width="33%" align="center">
       <h3>🌦️ Weather App</h3>
       <p>[One-line description]</p>
-      <a href="REPO_LINK">Code</a> · <a href="LIVE_LINK">Live</a>
+      <a href="https://github.com/Rahulsurya23/Weather-appUI">Code</a> · <a href="https://weatherappui-coral.vercel.app/">Live</a>
     </td>
     <td width="33%" align="center">
       <h3>🥁 Drum Kit</h3>
       <p>[One-line description]</p>
-      <a href="REPO_LINK">Code</a> · <a href="LIVE_LINK">Live</a>
+      <a href="https://github.com/Rahulsurya23/drum-kit">Code</a> · <a href="https://drum-kit-flame-phi.vercel.app/">Live</a>
     </td>
     <td width="33%" align="center">
-      <h3>🌐 Portfolio</h3>
-      <p>[One-line description]</p>
-      <a href="REPO_LINK">Code</a> · <a href="LIVE_LINK">Live</a>
-    </td>
   </tr>
 </table>
 
@@ -66,16 +62,14 @@
 ## 🎯 Current Goals
 
 - [ ] Crack a Software Development internship
-- [ ] Master DSA in Java
 - [ ] Build full stack projects
-- [ ] Prepare for GATE
+
 
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rahul-ai-cse/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:beesettyrahulsurya@gmail.comL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
