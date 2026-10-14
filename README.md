@@ -18,8 +18,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech CSE (AI) student at Vedam School of Technology, Pune
-- 🌱 Practicing DSA in Java daily
-- 📚 Preparing for internships and GATE
+- 📚 Preparing for internships
 - 🎯 Building full stack projects
 
 ## 🛠️ Tech Stack
@@ -34,15 +33,15 @@
   <tr>
     <td width="33%" align="center">
       <h3>🌦️ Weather App</h3>
-      <p>[One-line description]</p>
+      <p>A responsive weather app UI that shows current weather and forecasts for any city.</p>
       <a href="https://github.com/Rahulsurya23/Weather-appUI">Code</a> · <a href="https://weatherappui-coral.vercel.app/">Live</a>
     </td>
     <td width="33%" align="center">
       <h3>🥁 Drum Kit</h3>
-      <p>[One-line description]</p>
+      <p>An interactive drum kit that plays a different sound for each key press or click.</p>
       <a href="https://github.com/Rahulsurya23/drum-kit">Code</a> · <a href="https://drum-kit-flame-phi.vercel.app/">Live</a>
     </td>
-    <td width="33%" align="center">
+   
   </tr>
 </table>
 
