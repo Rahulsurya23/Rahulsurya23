@@ -29,19 +29,28 @@
 
 ## 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
 <table>
   <tr>
-    <td width="33%" align="center">
+    <td width="33%" align="center" valign="top">
+      <h3>🫀 PulseCheck</h3>
+      <p>Full-stack API monitoring app that tracks uptime, response times and check history on a live dashboard.</p>
+      <p><b>Next.js · TypeScript · Supabase · Vercel</b></p>
+      <a href="https://github.com/Rahulsurya23/PulseCheck">Code</a> · <a href="https://pulse-check-nvqx.vercel.app">Live</a>
+    </td>
+    <td width="33%" align="center" valign="top">
       <h3>🌦️ Weather App</h3>
       <p>A responsive weather app UI that shows current weather and forecasts for any city.</p>
+      <p><b>HTML · CSS · JavaScript</b></p>
       <a href="https://github.com/Rahulsurya23/Weather-appUI">Code</a> · <a href="https://weatherappui-coral.vercel.app/">Live</a>
     </td>
-    <td width="33%" align="center">
+    <td width="33%" align="center" valign="top">
       <h3>🥁 Drum Kit</h3>
       <p>An interactive drum kit that plays a different sound for each key press or click.</p>
+      <p><b>HTML · CSS · JavaScript</b></p>
       <a href="https://github.com/Rahulsurya23/drum-kit">Code</a> · <a href="https://drum-kit-flame-phi.vercel.app/">Live</a>
     </td>
-   
   </tr>
 </table>
 
